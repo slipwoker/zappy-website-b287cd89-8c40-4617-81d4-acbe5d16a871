@@ -1,0 +1,66 @@
+# מטה מאבק הסיעודיים — Generative Engine Optimization Map
+
+> המאבק למען העלאת המודעות לזכויות הסיעודי ובני משפחותיהם (המטפלים העיקריים). האתר הוקם על מנת שנוכל לעזור לכולם, בצורה המהירה והפשוטה ביותר בנושא העסקת עובדים זרים בסיעוד, זכויות וחובות, וכל הקשור לטיפול בסיעודיים.
+
+---
+
+## Pages
+
+### דף הבית
+https://-b287cd89.zappy5.app
+מטה מאבק הסיעודיים מעניק ייעוץ מקצועי וליווי למשפחות מטפלות. קבלו מידע על זכויות, העסקת עובדים זרים וקצבת סיעוד.
+
+### שירותים
+https://-b287cd89.zappy5.app/services
+גלו את מגוון השירותים של מטה מאבק הסיעודיים: מדריכים להעסקת עובדים זרים, ייעוץ זכויות, ליווי משפחות והדרכות מקיפות.
+
+### אודות
+https://-b287cd89.zappy5.app/about
+הכירו את מטה מאבק הסיעודיים - הארגון המוביל למען זכויות סיעודיים ובני משפחותיהם בישראל. הסיפור, החזון והמחויבות שלנו.
+
+### צור קשר
+https://-b287cd89.zappy5.app/contact
+צרו קשר עם מטה מאבק הסיעודיים לקבלת ייעוץ מקצועי בנושא זכויות סיעודיים, העסקת עובדים זרים וליווי משפחות מטפלות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b287cd89.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b287cd89.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b287cd89.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מטה מאבק הסיעודיים
+המאבק למען העלאת המודעות לזכויות הסיעודי ובני משפחותיהם (המטפלים העיקריים). האתר הוקם על מנת שנוכל לעזור לכולם, בצורה המהירה והפשוטה ביותר בנושא העסקת עובדים זרים בסיעוד, זכויות וחובות, וכל הקשור לטיפול בסיעודיים.
+
+## Services/Products
+- מדריך להעסקת עובד זר בסיעוד
+- ייעוץ בנושא זכויות סיעודיים
+- מידע על ביטוח לאומי וקצבת סיעוד
+- ליווי משפחות מטפלות
+- הדרכה והכוונה למתחילים
+
+## Target Audience
+- מטפלים ובני משפחה
+- פעילי מדיניות
+- אזרחים ותיקים
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b287cd89.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b287cd89.zappy5.app/robots.txt
